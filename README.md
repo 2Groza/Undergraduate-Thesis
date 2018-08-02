@@ -1,5 +1,8 @@
 # Undergraduate-Thesis
-my undergrad thesis in Chinese
+
+## supervised by Prof. Zhouchen Lin, Peking University and Prof. Huichao Song, Peking University.
+
+This is my undergrad thesis in Chinese and my defense slides in Chinese and English. 
 
 The first chapter briefly introduces the progress of deep learning in recent years, and introduces the main methods as well as frameworks used in later chapters. It combs some ideas and part of achievements in previous work that use deep learning to solve problems related to physics.
 
@@ -9,4 +12,4 @@ In the third chapter, star-galaxy segmentation and classification tasks are real
 
 The fourth chapter discusses the application of deep learning in MRI image segmentation. In dealing with medical MRI image segmentation problems with small data set, little training data, high dimensionality of images and different data sources, this chapter proposes a standardized method using CNN with BN. For the same network structure, this standardization method can be used to improve the performance, in the perspective of DSC, significantly.
 
-## 
+
